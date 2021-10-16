@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let's share the programming. 👋
 
 <!--
 **Unity2033/Unity2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
