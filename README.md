@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unity2033&show_icons=true&theme=radical)
 [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats)  
 ![Space](https://user-images.githubusercontent.com/82032086/137624660-56a55465-79f4-40c5-98db-e2a049518d7d.png)
