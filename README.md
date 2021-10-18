@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) \
+[Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 🤔 I attached the URL.  \
 It is a hyper-casual game launched on Google Play Store.\
 Let's play a game together.
 
