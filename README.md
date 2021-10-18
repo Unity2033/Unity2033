@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) It is a hyper-casual game launched on Google Play Store. Let's play a game together.
 
-![Space](https://user-images.githubusercontent.com/82032086/137624660-56a55465-79f4-40c5-98db-e2a049518d7d.png)
+![KakaoTalk_20211007_130514248](https://user-images.githubusercontent.com/82032086/137689226-10cfda1d-9858-4843-877d-d958a94e2f37.png)
