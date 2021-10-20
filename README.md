@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Unity-003545?style=for-the-badge&logo=Unity&logoColor=white">
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+
 
 [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 🤔 I attached the URL.  \
 It is a hyper-casual game launched on Google Play Store.\
