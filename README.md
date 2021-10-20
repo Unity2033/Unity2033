@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=C&logoColor=white"> 
-<img src="https://img.shields.io/badge/c++-%181717?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/c++-%181717?style=for-the-badge&logo=c++&logoColor=white"> 
 
 [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 🤔 I attached the URL.  \
 It is a hyper-casual game launched on Google Play Store.\
