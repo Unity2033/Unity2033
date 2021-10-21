@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Version control
+⚡ Version control
 
 <img src="https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white">
 
-Programming Language
+🌱 Programming Language
 
 <img src="https://img.shields.io/badge/C-%234B275F.svg?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
-Integrated Development Environment
+#512BD4 Integrated Development Environment
 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 
