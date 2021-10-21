@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/C-%234B275F.svg?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
-#512BD4 Integrated Development Environment
+512BD4 Integrated Development Environment
 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 
