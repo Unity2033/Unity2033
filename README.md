@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"></div>       
-
 Version control
 
-<img src="https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white"> <div align="center"></div>  
 
 Programming Language
 
