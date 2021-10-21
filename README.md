@@ -17,20 +17,10 @@ Here are some ideas to get you started:
 
 ## Programming Language
 
-- <img src="https://img.shields.io/badge/C-%234B275F.svg?style=for-the-badge&logo=C&logoColor=white">
+- <img src="https://img.shields.io/badge/%234B275F.svg?style=for-the-badge&logo=C&logoColor=white">
 - <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 - <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ⚡ Version control
 
