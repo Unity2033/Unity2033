@@ -1,9 +1,7 @@
-### Hello, I'm a person who strives to be the world's best game programmer. 👋
 
-<!--
-**Unity2033/Unity2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm a person who strives to be the world's best game programmer.
 
--->
+### Technology Available
 
 ## Programming Language
 
