@@ -1,6 +1,4 @@
 
-# Hello, I'm a person who strives to be the world's best game programmer.
-
 ### Technology Available
 
 ## Programming Language
