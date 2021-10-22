@@ -1,18 +1,18 @@
-## Programming Language 📃
+## ©️ Programming Language
 
 - C Language 
 - C++ Language 
 - C# Language 
 
-## Version control ✨
+## ✨ Version control
 
 - Github 
 
-## Integrated Development Environment 💻
+## 💻 Integrated Development Environment
 
 - Visual Studio 
 
-## Game Engine 💻
+## 🎮 Game Engine
 
 - Unity 
 
