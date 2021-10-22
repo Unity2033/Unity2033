@@ -26,4 +26,3 @@ Let's play a game together.
 
 ![KakaoTalk_20211007_130514248](https://user-images.githubusercontent.com/82032086/137689226-10cfda1d-9858-4843-877d-d958a94e2f37.png)
           
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unity2033)](https://git.io/streak-stats)
