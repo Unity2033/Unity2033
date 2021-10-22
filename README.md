@@ -23,11 +23,6 @@
 
 - Unity 
 
- {
-    "name": "⚙ Setting",
-    "color": "e3dede",
-    "description": "개발 환경 세팅"
-  }
 
 Download [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) I attached the URL.  \
 It is a hyper-casual game launched on Google Play Store.\
