@@ -17,7 +17,7 @@
 - Unity 
 
 
-### Download Link : [Google Play Store Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 
+### Download Link : [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 
 - It is a hyper-casual game launched on Google Play Store.
 - Let's play a game together.
 
