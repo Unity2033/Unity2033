@@ -1,23 +1,22 @@
-## 🐬 Programming Language
+### ♻️ Programming Language
 
 - C Language 
 - C++ Language 
 - C# Language 
 
-## 💱 Version control
+### 💱 Version control
 
 - Github 
 
-## 🌀 Integrated Development Environment
+### 🌀 Integrated Development Environment
 
 - Visual Studio 
 
-## 🎮 Game Engine
+### 🎮 Game Engine
 
 - Unity 
 
-## 💿 Release
+### 💿 Release
 
-- Google Play Store (https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 
-
+- Google Play Store : (https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 
 
