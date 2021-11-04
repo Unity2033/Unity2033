@@ -1,8 +1,11 @@
+### Introduce
+I will continue to grow as a programmer and move forward. \
+It's my favorite language, the C family, and I'm always interested in learning.
 
 #### :diya_lamp: Language
 <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/c Sharp-00599C?style=flat-square&logo=c Sharp&logoColor=white"/></a> 
 
-#### Integrated Development Environment
+#### :sparkles: Integrated Development Environment
 <img src="https://img.shields.io/badge/visual studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"/></a>
 
 #### :octocat: Remote Storage
