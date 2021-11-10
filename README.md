@@ -1,8 +1,8 @@
-## :bear: Technology stack.
+## :bear: ***Technology Stack.***
 I studied c-series languages, and I also studied graphics through DirectX11. \
 We have also launched games using Unity Engine, and we use Git to manage projects.
 
-#### :diya_lamp: Language
+#### :diya_lamp: Language 
 <img src="https://img.shields.io/badge/c-0B2C4A?style=flat-square&logo=c&logoColor=white"/></a> \
 <img src="https://img.shields.io/badge/c++-0B2C4A?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> \
 <img src="https://img.shields.io/badge/c Sharp-0B2C4A?style=flat-square&logo=c Sharp&logoColor=white"/></a> 
