@@ -17,5 +17,6 @@ We have also launched games using Unity Engine, and we use Git to manage project
 <img src="https://img.shields.io/badge/unity-41454A?style=flat-square&logo=unity&logoColor=white"/></a> 
 
 #### :earth_asia: Release
-<img src="https://img.shields.io/badge/Google Play-41454A?style=flat-square&logo=Google Play&logoColor=white"/></a>
-- (https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 
+
+
+[![텍스트](https://user-images.githubusercontent.com/82032086/142396242-c6598977-21a8-4555-a0d8-0014dc1bcb05.png)](https://play.google.com/store/apps/details?id=com.Default.SpaceCat)
