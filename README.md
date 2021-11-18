@@ -19,4 +19,4 @@ We have also launched games using Unity Engine, and we use Git to manage project
 #### :earth_asia: Release
 
 
-[![텍스트](https://user-images.githubusercontent.com/82032086/142396242-c6598977-21a8-4555-a0d8-0014dc1bcb05.png)](https://play.google.com/store/apps/details?id=com.Default.SpaceCat)
+[![텍스트](https://user-images.githubusercontent.com/82032086/142396242-c6598977-21a8-4555-a0d8-0014dc1bcb05.png)](https://play.google.com/store/apps/details?id=com.Default.SpaceCats)
