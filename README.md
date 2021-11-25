@@ -1,6 +1,6 @@
 ## :bear: ***Technology Stack.***
 I studied c-series languages, and I also studied graphics through DirectX11. \
-We have also launched games using Unity Engine, and we use Git to manage projects. \
+We have also launched games using Unity Engine, and we use Git to manage projects.
 
 #### :clipboard: Career
 - SBS Game Academy 2021.11.27 ~  
