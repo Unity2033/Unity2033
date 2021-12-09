@@ -1,5 +1,5 @@
 ## :bear: ***Technology Stack.***
-I studied c-series languages, and I also studied graphics through DirectX11. \
+I am currently a programming instructor. \
 We have also launched games using Unity Engine, and we use Git to manage projects.
 
 #### :clipboard: Career
