@@ -1,6 +1,6 @@
 ## :bear: ***Technology Stack.***
 I am currently a programming instructor. \
-We have also launched games using Unity Engine, and we use Git to manage projects.
+The game has been released on the Google Play Store, and version control is performed on the Github desktop.
 
 #### :clipboard: Career
 - SBS Game Academy 2021.11.27 ~  
