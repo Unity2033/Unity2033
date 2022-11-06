@@ -18,5 +18,4 @@ The game has been released on the Google Play Store, and version control is perf
 
 #### :earth_asia: Release
 
-
-[![텍스트](https://user-images.githubusercontent.com/82032086/142396242-c6598977-21a8-4555-a0d8-0014dc1bcb05.png)](https://play.google.com/store/apps/details?id=com.Default.SpaceCats)
+[![Space](https://user-images.githubusercontent.com/82032086/200162357-8728c28b-6c6d-43be-9039-4fb6c8b15dbf.png)](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 
