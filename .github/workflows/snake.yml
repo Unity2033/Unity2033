@@ -9,7 +9,13 @@ on:
 
   # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
-
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags'
 jobs:
   build:
     runs-on: ubuntu-latest
