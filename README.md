@@ -1,23 +1,22 @@
-## :bear: ***Technology Stack.***
-I am currently a programming instructor. \
-The game has been released on the Google Play Store, and version control is performed on the Github desktop.
+<h1 align="center">👋, I'm a game programmer and programming instructor.</h1>
 
-#### :diya_lamp: Language 
-- C Language
-- C++ Language
-- C# Language
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unity2033&label=Profile%20views&color=0e75b6&style=flat" alt="unity2033" /> </p>
 
-#### :sparkles: Integrated Development Environment
-- Visual Studio
+- 🔭 Google Play Store Released Games [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats)
+  
+- 🌱 I’m currently learning **Unreal Engine**
 
-#### :octocat: Remote Storage
-- Github
+- 💬 Ask me about **Game Development Basic Course**
+  
+<img align="right" alt="coding" width = "300" height = "200" src = "https://cdn.pixabay.com/animation/2022/11/30/19/48/19-48-34-65_512.gif">
 
-#### :video_game: Game Engine
-- Unity
+<p align="left">
+</p>
 
-#### :earth_asia: Release
+<h3 align="left">Languages 
+</h3> <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 
-[![Space](https://user-images.githubusercontent.com/82032086/200162357-8728c28b-6c6d-43be-9039-4fb6c8b15dbf.png)](https://play.google.com/store/apps/details?id=com.Default.SpaceCats) 
+<h3 align="left"> Game Engine
+</h3> <p align="left"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![snake gif](https://github.com/Unity2033/Unity2033/blob/output/github-contribution-grid-snake.gif)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
