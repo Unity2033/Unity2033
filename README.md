@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm a game programmer and programming instructor.</h1>
+![github-header-image (1)](https://github.com/Unity2033/Unity2033/assets/82032086/69607c55-ba29-4685-a761-b851dbd11cf4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unity2033&label=Profile%20views&color=0e75b6&style=flat" alt="unity2033" /> </p>
 
