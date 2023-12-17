@@ -1,22 +1,18 @@
-![github-header-image (1)](https://github.com/Unity2033/Unity2033/assets/82032086/69607c55-ba29-4685-a761-b851dbd11cf4)
+![header](https://capsule-render.vercel.app/api?&type=waving&text=Game&animation=blink&color=gradient&customColorList=0,2,2,5,30&desc=Instructor&descAlignY=85&height=150)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unity2033&label=Profile%20views&color=0e75b6&style=flat" alt="unity2033" /> </p>
-
-- 🔭 Google Play Store Released Games [Space Cat's](https://play.google.com/store/apps/details?id=com.Default.SpaceCats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unity2033&label=Profile%20views&color=0e75b6&style=flat" alt="unity2033"/>
+<img align="right" alt="coding" width = "500" height = "500" src = "https://github.com/Unity2033/Unity2033/assets/82032086/9698b664-10f4-4af5-a633-9aed31c73b0e">
   
-- 🌱 I’m currently learning **Unreal Engine**
-
-- 💬 Ask me about **Game Development Basic Course**
-  
-<img align="right" alt="coding" width = "300" height = "200" src = "https://cdn.pixabay.com/animation/2022/11/30/19/48/19-48-34-65_512.gif">
-
-<p align="left">
-</p>
+<h3 align="left"> Integrated Development Environment 
+</h3> <p align="justify">
+</h3> <p align="justify"> <img src="https://github.com/Unity2033/Unity2033/assets/82032086/308254b9-ba48-4378-9cad-1ff0915833ce" alt="visualstudio" width="75" height="75"/>
 
 <h3 align="left">Languages 
-</h3> <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+</h3> <p align="left">
+  
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/>
 
 <h3 align="left"> Game Engine
-</h3> <p align="left"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
+</h3> <p align="left"> <img src="https://cdn.icon-icons.com/icons2/233/PNG/512/Unity_26208.png" alt="unity" width="75" height="75"/>
