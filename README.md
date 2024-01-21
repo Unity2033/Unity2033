@@ -6,7 +6,7 @@
 <table align="left">
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/Unity2033/Unity2033/assets/82032086/0caab661-9b8b-4f21-8a19-45a612a1dda3" width="48" height="48" alt="playfab" />
+        <img src="https://github.com/Unity2033/Unity2033/assets/82032086/0caab661-9b8b-4f21-8a19-45a612a1dda3" width="65" height="65" alt="playfab" />
       <br>Azure Playfab
     </td>
   <td align="center" width="96">
